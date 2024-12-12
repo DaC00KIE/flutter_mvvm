@@ -35,7 +35,6 @@ class City extends Equatable {
         'postal_code': postalCode,
       };
 
-
   @override
   List<Object?> get props {
     return [
